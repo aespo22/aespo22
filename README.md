@@ -1,8 +1,15 @@
-# Hello, I'm Antonio 👋
+# Hello, I'm Antonio 👋 
+
+<div>
+  <img src="https://github.com/aespo22/aespo22-/assets/113534388/d369170d-9c05-44a3-9cd4-cd04518cc20b" alt="Nome alternativo" width="50%" align="right">
+
+  
 
 Welcome to my GitHub profile! I'm an audio engineer, an IT enthusiast, a former psychology student at Federico II, and currently a student at the Apple Academy. I've always had a deep interest in the world of IT, particularly in the areas of machine learning and AI.
 
 When I'm not deciphering the complexities of the human mind or tuning sound frequencies, you'll likely find me immersed in tech. I use a variety of resources for learning, ranging from professional courses such as Google's IT Specialist program, to hands-on practice developing websites using Java and CSS.
+
+</div>
 
 ## ⚙️ My Skills
 
@@ -15,14 +22,26 @@ When I'm not deciphering the complexities of the human mind or tuning sound freq
 
 As part of my never-ending journey of learning, I'm currently expanding my understanding of Swift, and branching out into Java, Python, and C++. Can someone say "lifelong learner"?
 
+
+
+
 ## 📩 How to Reach Me
 
 - 📧 [aespo011@gmail.com]
 - [![Medium](https://img.shields.io/badge/Medium-%23212121.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aespo011)
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1021766640192471120)
 
-## ⚡ Fun Facts
+## 🫠 Fun Facts
 
 In my free time, I love making rap beats 🥁 . I tell you more, I literally can't start my day without some loud, hard music to wake me up! 🔊
 
 And if you're wondering how psychology, music and coding connect, don't worry. I'm still exploring that fascinating intersection too. 😉
+
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aespo22&show_icons=true&locale=en&layout=compact" alt="aespo22" width="25%" height="25%"/>
+</p>
+
+
+
+
