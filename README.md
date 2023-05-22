@@ -16,7 +16,7 @@ When I'm not deciphering the complexities of the human mind or tuning sound freq
 - 🔊 A strong background in Psychology and Audio Engineering (an intriguing combination, isn't it?)
 - 💻 Web development with Java and CSS
 - 🤝 Experience in IT Support, honing a variety of soft skills (talk about being under pressure!)
-- 🍎 iOS development and Swift (courtesy of the Apple Academy)
+- 🍎 iOS development and Swift (courtesy of the Apple Developer Academy)
 
 ## 📚 What I'm Learning
 
