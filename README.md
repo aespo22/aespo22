@@ -1,7 +1,7 @@
-# Hello, I'm Antonio 👋 
+# Hi, I'm Antonio!  👋 
 
 <div>
-  <img src="https://github.com/aespo22/aespo22-/assets/113534388/d369170d-9c05-44a3-9cd4-cd04518cc20b" alt="Nome alternativo" width="50%" align="right">
+  <img src="https://github.com/aespo22/aespo22-/assets/113534388/d369170d-9c05-44a3-9cd4-cd04518cc20b" alt="Nome alternativo" width="40%" align="right">
 
   
 
@@ -38,10 +38,8 @@ In my free time, I love making rap beats 🥁 . I tell you more, I literally can
 And if you're wondering how psychology, music and coding connect, don't worry. I'm still exploring that fascinating intersection too. 😉
 
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aespo22&show_icons=true&locale=en&layout=compact" alt="aespo22" width="25%" height="25%"/>
-</p>
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=aespo22&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
 
