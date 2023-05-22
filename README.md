@@ -4,21 +4,20 @@ Welcome to my GitHub profile! I'm an audio engineer, an IT enthusiast, a former 
 
 When I'm not deciphering the complexities of the human mind or tuning sound frequencies, you'll likely find me immersed in tech. I use a variety of resources for learning, ranging from professional courses such as Google's IT Specialist program, to hands-on practice developing websites using Java and CSS.
 
-## 🚀 My Skills
+## ⚙️ My Skills
 
 - 🔊 A strong background in Psychology and Audio Engineering (an intriguing combination, isn't it?)
 - 💻 Web development with Java and CSS
 - 🤝 Experience in IT Support, honing a variety of soft skills (talk about being under pressure!)
 - 🍎 iOS development and Swift (courtesy of the Apple Academy)
 
-## 🌱 What I'm Learning
+## 📚 What I'm Learning
 
 As part of my never-ending journey of learning, I'm currently expanding my understanding of Swift, and branching out into Java, Python, and C++. Can someone say "lifelong learner"?
 
-## 📫 How to Reach Me
+## 📩 How to Reach Me
 
 - 📧 [aespo011@gmail.com]
-- [![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_handle?style=social)](https://twitter.com/shoutoutobi)
 - [![Medium](https://img.shields.io/badge/Medium-%23212121.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aespo011)
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1021766640192471120)
 
