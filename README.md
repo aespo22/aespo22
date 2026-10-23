@@ -1,45 +1,17 @@
-# Hi, I'm Antonio!  👋 
+# Hi, I'm Antonio 👋
 
-<div>
-  <img src="https://github.com/aespo22/aespo22-/assets/113534388/d369170d-9c05-44a3-9cd4-cd04518cc20b" alt="Nome alternativo" width="40%" align="right">
+<img src="https://github.com/aespo22/aespo22-/assets/113534388/d369170d-9c05-44a3-9cd4-cd04518cc20b" alt="Antonio" width="35%" align="right">
 
-  
+**Full-stack developer** at MMN (Bechtle Group): from backend and infrastructure to iOS / visionOS apps. Apple Developer Academy alumnus · audio engineer by background.
 
-Welcome to my GitHub profile! I'm an audio engineer, an IT enthusiast, a former psychology student at Federico II, and currently a student at the Apple Academy. I've always had a deep interest in the world of IT, particularly in the areas of machine learning and AI.
+🥽 Built the Apple Vision Pro app behind **OmniParaVision**: immersive 3D emergency simulations streamed from **NVIDIA Omniverse** via CloudXR, used by the Italian Fire and Rescue Service (Vigili del Fuoco) for Milano Cortina 2026.
 
-When I'm not deciphering the complexities of the human mind or tuning sound frequencies, you'll likely find me immersed in tech. I use a variety of resources for learning, ranging from professional courses such as Google's IT Specialist program, to hands-on practice developing websites using Java and CSS.
+🔧 **Now:** designing a **Nextcloud** architecture and building a **C# / .NET** backend.
 
-</div>
+🛠 **Stack:** Swift · SwiftUI · visionOS · C# / .NET · Nextcloud · Docker · NVIDIA Omniverse
 
-## ⚙️ My Skills
+🎧 Off-screen: producing rap beats, and a past in psychology.
 
-- 🔊 A strong background in Psychology and Audio Engineering (an intriguing combination, isn't it?)
-- 💻 Web development with Java and CSS
-- 🤝 Experience in IT Support, honing a variety of soft skills (talk about being under pressure!)
-- 🍎 iOS development and Swift (courtesy of the Apple Developer Academy)
+📫 aespo011@gmail.com · [Medium](https://medium.com/@aespo011) · [Discord](https://discordapp.com/users/1021766640192471120)
 
-## 📚 What I'm Learning
-
-As part of my never-ending journey of learning, I'm currently expanding my understanding of Swift, and branching out into Java, Python, and C++. Can someone say "lifelong learner"?
-
-
-
-
-## 📩 How to Reach Me
-
-- 📧 [aespo011@gmail.com]
-- [![Medium](https://img.shields.io/badge/Medium-%23212121.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aespo011)
-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1021766640192471120)
-
-## 🫠 Fun Facts
-
-In my free time, I love making rap beats 🥁 . I tell you more, I literally can't start my day without some loud, hard music to wake me up! 🔊
-
-And if you're wondering how psychology, music and coding connect, don't worry. I'm still exploring that fascinating intersection too. 😉
-
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=aespo22&show_icons=true&theme=ADD_THEME_HERE" width="400">
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=aespo22&show_icons=true&theme=transparent" width="400">
