@@ -7,4 +7,3 @@
 
 📫 aespo011@gmail.com · [Medium](https://medium.com/@aespo011) · [Discord](https://discordapp.com/users/1021766640192471120)
 
-<img src="https://github-readme-stats.vercel.app/api?username=aespo22&show_icons=true&theme=transparent" width="400">
